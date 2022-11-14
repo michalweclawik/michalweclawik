@@ -9,7 +9,7 @@ I’m a Junior Full Stack Developer and Mechanical Engineer with a passion for p
 - ✉ michalwagh@gmail.com.
 - 🖇 https://www.linkedin.com/in/michal-weclawik/
 
-### Languages and Tools
+### 🛠️ Languages and Tools
 
 <div>
 
