@@ -2,13 +2,13 @@
 
 I’m a Junior Full Stack Developer and Mechanical Engineer with a passion for problem-solving and new technologies. Naturally curious with the intention of changing the 🌎world by inventing tools that improve people`s lives!  I'm a graduate of 12 weeks full stack development at _nology ready to use gained knowledge in the tech industry 💪.
 
-<img width=100%  src="https://cdn.pixabay.com/photo/2016/10/20/18/35/earth-1756274_960_720.jpg" alt="VS">
-
 ## 📫 How to reach me:
 
 - ✉ michalwagh@gmail.com.
 - 🖇 https://www.linkedin.com/in/michal-weclawik/
 
+## ⚡ Current Projects
+-  I’m currently working on react weather web application
 ### 🛠️ Languages and Tools
 
 <div>
