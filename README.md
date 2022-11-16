@@ -9,6 +9,7 @@ I’m a Junior Full Stack Developer and Mechanical Engineer with a passion for p
 
 ## ⚡ Current Projects
 -  I’m currently working on react weather web application
+-  Looking forward to learn Firebase and C#
 ### 🛠️ Languages and Tools
 
 <div>
