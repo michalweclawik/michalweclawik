@@ -8,8 +8,8 @@ I’m a Junior Full Stack Developer and Mechanical Engineer with a passion for p
 - 🖇 https://www.linkedin.com/in/michal-weclawik/
 
 ## ⚡ Current Projects
--  I’m currently working on React-Firebase appliaction 
--  Looking forward to learn Firebase and C#
+-  I’m currently learning Node.js
+-  Looking forward to learn C# and .NET
 ### 🛠️ Languages and Tools
 
 <div>
