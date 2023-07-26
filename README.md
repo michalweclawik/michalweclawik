@@ -13,7 +13,7 @@ I’m a Junior Full Stack Developer and Mechanical Engineer with a passion for p
 
 <div>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,sass,git,html,css,java,mysql,spring,jest,typescript,nextjs)](https://skills.thijs.gg)  <img idth=45px height=45px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS">
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,sass,git,html,css,java,mysql,spring,jest,typescript,nextjs,firebase,mongodb)](https://skills.thijs.gg)  <img idth=45px height=45px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS">
   
   
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=michalweclawik&count=5&theme=tokyonight)]()
