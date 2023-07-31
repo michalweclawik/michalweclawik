@@ -4,8 +4,7 @@ I’m a Junior Full Stack Developer and Mechanical Engineer with a passion for p
 
 ## 📫 How to reach me:
 
-- ✉ michalwagh@gmail.com.
-- 🖇 https://www.linkedin.com/in/michal-weclawik/
+- ✉ michalwagh@gmail.com
 - 🖇 https://michalweclawik.github.io/portfolioReact
 
 
